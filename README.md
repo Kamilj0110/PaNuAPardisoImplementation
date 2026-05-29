@@ -5,7 +5,7 @@ Reads matrices in our custom binary COO format.
 
 ## Prerequisites
 
-1. **Panua Pardiso** — get an academic license at https://panua.ch
+1. **Panua Pardiso** — get an license at https://panua.ch
 2. Place your `panua.lic` in your home directory:
    - Windows: `C:\Users\YourName\panua.lic`
    - Linux: `~/panua.lic`
